@@ -1,0 +1,6 @@
+framework module Pods_EveryoneTutor {
+  umbrella header "Pods-EveryoneTutor-umbrella.h"
+
+  export *
+  module * { export * }
+}
